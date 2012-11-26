@@ -1,0 +1,28 @@
+body {
+	padding: 0 10px 0px;
+	text-align: center;
+}
+
+tr .centralyze{
+	text-align: center;
+}
+
+#slider-cursos{
+	margin-top: 70px;
+}
+
+#instrutor{
+	margin: 0 10px 0;
+}
+
+.btns-sobre{
+	text-align: center;
+}
+
+.btn-sobre{
+	margin: 0px 10px;
+}
+
+.btn-sobre strong{
+	color: rgb(51, 51, 51);
+}
